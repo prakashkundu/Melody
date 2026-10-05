@@ -77,4 +77,3 @@ REST API The backend follows REST principles. API areas include authentication, 
 The JavaScript frontend communicates with these APIs using HTTP requests and updates the interface using the returned JSON data.
 
 Future Enhancements • Advanced recommendation engine • Personalized playlists • Improved karaoke-style lyric synchronization • Improved voice search • Queue management • Shuffle and repeat modes • Audio quality selection • Performance optimization and caching • Docker containerization • Cloud deployment • Kubernetes deployment • CI/CD pipeline
-image image image
